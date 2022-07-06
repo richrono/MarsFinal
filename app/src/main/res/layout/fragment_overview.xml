@@ -58,5 +58,10 @@
             app:layout_constraintTop_toTopOf="parent"
             app:marsApiStatus="@{viewModel.status}" />
 
+<!--        <com.google.android.material.bottomnavigation.BottomNavigationView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            app:menu="@menu/bottom_menu" />-->
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
